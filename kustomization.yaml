@@ -4,5 +4,5 @@ resources:
 - deployment.yaml
 - service.yaml
 images:
-- name: icishub.azurecr.io/shclub/edu1
+- name: worldreg240717.azurecr.io/sstptkdss1/edu1
   newTag: "v1"
